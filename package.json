@@ -1,0 +1,18 @@
+{
+  "name": "text-recognitor",
+  "productName": "text-recognitor",
+  "description": "Recognite text from images",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "manhvl.wq",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "tesseract.js": "^2.1.4"
+  },
+  "devDependencies": {
+    "electron": "14.0.0-beta.5"
+  }
+}
